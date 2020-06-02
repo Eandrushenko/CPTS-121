@@ -1,0 +1,15 @@
+﻿  source.c
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\source.c(47): warning C4027: function declared without formal parameter list
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\source.c(62): warning C4013: 'get_jokes' undefined; assuming extern returning int
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\source.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\source.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\source.c(98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\main.c(24): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\main.c(43): warning C4087: 'print_game_rules': declared with 'void' parameter list
+  Generating Code...
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa4\andrushenko_pa4\source.c(334): warning C4716: 'get_jokes': must return a value
+  Andrushenko_pa4.vcxproj -> C:\Users\Elijah\Desktop\CPTS 121\CPTS 121 Project Assignments\Andrushenko_PA4\Debug\Andrushenko_pa4.exe

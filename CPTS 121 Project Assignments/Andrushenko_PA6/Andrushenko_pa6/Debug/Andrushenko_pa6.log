@@ -1,0 +1,46 @@
+﻿  source.c
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\source.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\source.c(276): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\source.c(278): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(129): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(184): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(234): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(236): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(238): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(286): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(288): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\main.c(290): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\source.c(94): warning C4716: 'display_rules': must return a value
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa6\andrushenko_pa6\source.c(58): warning C4715: 'battleship_title': not all control paths return a value
+  Andrushenko_pa6.vcxproj -> C:\Users\Elijah\Desktop\CPTS 121\CPTS 121 Project Assignments\Andrushenko_PA6\Debug\Andrushenko_pa6.exe

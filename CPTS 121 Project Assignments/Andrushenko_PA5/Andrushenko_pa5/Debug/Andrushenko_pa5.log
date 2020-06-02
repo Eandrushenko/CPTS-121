@@ -1,0 +1,17 @@
+﻿  source.c
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\source.c(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\main.c(25): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\main.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\main.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\main.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\main.c(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\elijah\desktop\cpts 121\cpts 121 project assignments\andrushenko_pa5\andrushenko_pa5\main.c(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  Andrushenko_pa5.vcxproj -> C:\Users\Elijah\Desktop\CPTS 121\CPTS 121 Project Assignments\Andrushenko_PA5\Debug\Andrushenko_pa5.exe
